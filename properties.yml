@@ -1,0 +1,5 @@
+APP_NAME: openbankingdev
+MS_NAME: openbankingapi
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/openbankingapi.git
+SONAR_HOST_URL: http://sonar-openbankingdev-cicd.52.172.12.252.nip.io
